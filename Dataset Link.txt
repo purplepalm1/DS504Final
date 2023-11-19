@@ -1,0 +1,3 @@
+Link to dataset: https://www.kaggle.com/datasets/husainsb/lendingclub-issued-loans/data
+
+Files were too big to put onto github. If link expires for any reason, I can organize a way to provide you with the files via WeTransfer.
